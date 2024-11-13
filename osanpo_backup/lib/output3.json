@@ -1,0 +1,24 @@
+{
+    "category": [
+        { "value": "A", "label": "農業、林業" },
+        { "value": "B", "label": "漁業" },
+        { "value": "C", "label": "鉱業、採石業、砂利採取業" },
+        { "value": "D", "label": "建設業" },
+        { "value": "E", "label": "製造業" },
+        { "value": "F", "label": "電気・ガス・熱供給・水道業" },
+        { "value": "G", "label": "情報通信業" },
+        { "value": "H", "label": "運輸業、郵便業" },
+        { "value": "I", "label": "卸売業・小売業" },
+        { "value": "J", "label": "金融業・保険業" },
+        { "value": "K", "label": "不動産業、物品賃貸業" },
+        { "value": "L", "label": "学術研究、専門・技術サービス業" },
+        { "value": "M", "label": "宿泊業、飲食サービス業" },
+        { "value": "N", "label": "生活関連サービス業、娯楽業" },
+        { "value": "O", "label": "教育、学習支援業" },
+        { "value": "P", "label": "医療、福祉" },
+        { "value": "Q", "label": "複合サービス事業" },
+        { "value": "R", "label": "サービス業（他に分類されないもの）" },
+        { "value": "S", "label": "公務（他に分類されるものを除く）" },
+        { "value": "T", "label": "分類不能の産業" }
+    ]
+}
